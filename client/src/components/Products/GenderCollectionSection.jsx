@@ -1,10 +1,10 @@
 import { Link } from "react-router-dom";
-import mensCollectionImage from "../../assets/mens-collection.webp";
-import womensCollectionImage from "../../assets/womens-collection.webp";
+import mensCollectionImage from "../../assets/mens-collections.jpg";
+import womensCollectionImage from "../../assets/womens-collections.webp";
 
 const GenderCollectionSection = () => {
   return (
-    <section className="py-16 px-4 lg:px-4">
+    <section className="py-16 px-2 md:px-4 lg:px-4">
       <div
         className="container
      mx-auto flex flex-col md:flex-row gap-8"

@@ -2,6 +2,9 @@
 
 @theme {
     --color-shopii-red: #ea2e0e;
+    --color-shopii-blue: #0d1b2a;
+    --color-shopii-gray: #e0e1dd;
+    --color-shopii-green: #4a7c59;
     
 }
 
@@ -9,4 +12,5 @@
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
+    /* background: #edf6f9; */
 }
